@@ -1,0 +1,41 @@
+body {
+    background: #74992e;
+    font-family: tahoma, "roboto", sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+}
+a {
+    color: purple;
+    font-size: 25px;
+}
+.card1 {
+    border: solid darkred 2px;
+    border-radius: 10px;
+    background-color: aqua;
+    width: 530px;
+}
+
+.card2 {
+    border: solid darkred 2px;
+    border-radius: 10px;
+    background-color: aqua;
+    width: 500px;
+    padding: 15px;
+    padding-top: 1px;
+}
+
+h4 {
+    size: 50px;
+}
+
+.container img {
+    border-radius: 10px;
+}
+
+.container {
+    max-width: 750px;
+    margin: auto;
+}
+.form-fills{
+    margin-bottom: 5px;
+}

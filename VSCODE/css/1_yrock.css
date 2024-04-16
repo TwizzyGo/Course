@@ -1,0 +1,9 @@
+h1{
+    color: blue;
+    font-size: 50px;
+    letter-spacing:4px;
+    border-bottom: 2px solid black;
+}
+body {
+    background: #ddd;
+}

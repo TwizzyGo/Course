@@ -1,0 +1,22 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Verdana, sans-serif;
+    font-family: 'Robot', sans-serif;
+    font-size: 18px;
+    line-height: 1.6em;
+    font-weight: normal; 
+
+    /* font:normal 20px 'roboto', sans-serif */
+
+
+
+    /* text-decoration:line-through; */
+    /* font-style: italic; */
+    /* letter-spacing: 2px; */
+    /* word-spacing:10px; */  
+}
+
+/* .css p {
+    font-family: VErdana;
+    font-size: 20px;
+    font-weight: bold;
+} */

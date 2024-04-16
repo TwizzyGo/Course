@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>BoxModle</title>
+        <style>
+            * {
+                margin: 0;
+                padding: 0;
+            }
+            body {
+                margin: 0;
+            }
+            .container {
+                max-width: 750px;
+                margin: auto;
+            }
+            .box {
+                background: darkorchid;
+                color: #fff;
+
+                /* padding: 15px; */
+                /* top & bottom / left & right */
+                /* padding: 15px 40px; */
+                /* padding: 15px 40 25px 30px; */
+                /* padding-top:15px;
+                padding-right:25px;
+                padding-left:30px; */
+
+                padding: 15px;
+
+                border: 4px solid red;
+
+                margin: 10px;
+                margin-bottom: ;
+            }
+            .blocks {
+                width: 100%;
+            }
+
+            .blocks .blocks {
+                width: 25%;
+                background: #000;
+                height: 50px;
+                float: left;
+                border: 4px solid green;
+                box-sizing: border-box;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="box">
+                <h2>BoxModel</h2>
+                <p>
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Non iste similique accusamus quas!
+                    Voluptas ut iusto iste earum blanditiis nostrum tenetur eos totam in, fuga perferendis magni
+                    numquam, esse dolorem.
+                </p>
+            </div>
+
+            <div class="box">
+                <h2>BoxModel</h2>
+                <p>
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Non iste similique accusamus quas!
+                    Voluptas ut iusto iste earum blanditiis nostrum tenetur eos totam in, fuga perferendis magni
+                    numquam, esse dolorem.
+                </p>
+            </div>
+        </div>
+        <div class="blocks">
+            <div class="blocks"></div>
+            <div class="blocks"></div>
+            <div class="blocks"></div>
+            <div class="blocks"></div>
+        </div>
+    </body>
+</html>

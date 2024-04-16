@@ -1,0 +1,33 @@
+
+body { 
+    background: #eee;
+}
+.card{
+    padding: 10px;
+    margin-bottom: 10px;
+    background: #fff;
+}
+
+.card p{
+    font-size: 30px;
+
+}
+
+#header{
+    background: darkgoldenrod;
+    padding: 10px;
+}
+
+#header, .card{
+    margin-bottom: 10px;
+}
+
+.css{
+    background:#2549d9;
+    padding: 10px;
+}
+.html{
+    background: #e55f28;
+    color: white;
+}
+

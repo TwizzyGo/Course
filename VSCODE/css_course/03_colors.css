@@ -1,0 +1,28 @@
+.color1{
+    color: crimson;
+}
+.color2{
+    color: #adff2f;
+}
+
+/* Red Green Blue */
+/* 00-ff */
+.color3{
+    /* color:#4B0082 */
+    color: #ddd;
+}
+
+/* 0-255 */
+.color4{
+    color: rgb(0,150,0);
+    /* opacity: 0.5; */
+}
+
+.color5{
+    color: rgba(0,150,0, 0.5);
+}
+
+body{
+    color: #E6E6FA;
+    background: #228B22;
+}
